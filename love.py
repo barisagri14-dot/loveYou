@@ -17,7 +17,7 @@ BG = "#060208"
 s = t.Screen()
 s.setup(800, 800)
 s.bgcolor(BG)
-s.title("Love Heart")
+s.title("HAZAL'IM")
 s.tracer(0)
 
 cv = s.getcanvas()
